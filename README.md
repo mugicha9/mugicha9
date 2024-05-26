@@ -1,3 +1,2 @@
 Belong to Tokyo university of science.
-Interested in Securities like CTF and Stock Market.
-
+Interested in Computer Securitity, Statistics and Stock Market.
